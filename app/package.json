@@ -1,6 +1,6 @@
 {
   "name": "terminal-chatgpt-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A terminal-based ChatGPT client with streaming responses and dev-friendly features.",
   "bin": {
     "terminal-gpt": "./chatgpt-stream-cli.js"
@@ -11,7 +11,11 @@
   },
   "author": "Kevin",
   "license": "MIT",
-  "files": ["chatgpt-stream-cli.js", "README.md", "LICENSE"],
+  "files": [
+    "chatgpt-stream-cli.js",
+    "README.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "chalk": "^5.3.0",
     "cli-highlight": "^2.1.11",
