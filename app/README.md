@@ -1,6 +1,6 @@
 # Terminal GPT CLI
 
-![alt text](./assets/terminal-image.png)
+![alt text](https://raw.githubusercontent.com/KevinG115/chatGPT-cli/refs/heads/main/app/assets/terminal-image.png)
 
 A fast, streaming ChatGPT client for your terminal.  
 Supports saved sessions, configurable personalities, syntax highlighting, and Markdown rendering.
