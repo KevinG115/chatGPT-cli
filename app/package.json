@@ -1,6 +1,6 @@
 {
   "name": "terminal-chatgpt-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A terminal-based ChatGPT client with streaming responses and dev-friendly features.",
   "bin": {
     "terminal-gpt": "./chatgpt-stream-cli.js"
